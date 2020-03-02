@@ -85,16 +85,7 @@
                 </div>
 
                 <div class="links">
-                    {{-- <a href="{{route('action')}}">Our Action</a>
-                    <a href="{{route('about')}}">About Us</a>
-                    <a href="{{route('join')}}">Join Us</a>
-                    <a href="{{route('news')}}">News</a>
-                    <a href="{{route('contact')}}">Contact Us</a>
-                    <a href="{{route('customer')}}">Customer</a> --}}
-                    <a href="{{route('table_customer')}}">Customer Data</a>
-                    <a href="student">Student</a>
-                    <a href="{{route('students')}}">Students</a>
-                    <a href="{{route('subject')}}">Subject</a>
+                    <a href="">Docs</a>
                 </div>
             </div>
         </div>
